@@ -1,0 +1,6 @@
+{
+  "name": "Lacak Jajan",
+  "description": "Aplikasi penemu dan pelacak pedagang UMKM keliling dengan status berjualan, stok realtime, dan peta interaktif.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
